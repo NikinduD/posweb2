@@ -19,7 +19,7 @@ const Navbar = () => {
                     <span className='logo-name'>REAL TECH</span>
                 </div>
                 <ul className="navbar-links">
-                    <li><Link to="/">chatbot</Link></li>
+
 
                 </ul>
                 <div className="navbar-buttons">

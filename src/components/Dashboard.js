@@ -23,6 +23,10 @@ const Dashboard = () => {
                     <p>25</p> {/* Update dynamically */}
                 </div>
                 <div className="card">
+                    <h3>Total Supplier</h3>
+                    <p>35</p> {/* Update dynamically */}
+                </div>
+                <div className="card">
                     <h3>Total Customers</h3>
                     <p>50</p> {/* Update dynamically */}
                 </div>

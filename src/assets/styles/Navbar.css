@@ -18,7 +18,7 @@
 .logo-name {
   font-size: 20px;
   font-weight: bold;
-  color: rgba(8, 74, 200, 0.55);
+  color: white;
   text-transform: uppercase;
   letter-spacing: 1.5px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* subtle shadow */
